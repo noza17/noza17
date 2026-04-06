@@ -1,6 +1,8 @@
 # Hey There! 👋
-## I'm Noza
-Check out my [portfolio](https://nozaren.main.jp/).
+<div>
+  <h2>I'm Noza</h2>
+  <p>Check out my [portfolio](https://nozaren.main.jp/)</p>
+</div>
 
 # Skills
 
